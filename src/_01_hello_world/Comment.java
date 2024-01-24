@@ -1,3 +1,5 @@
+package _01_hello_world;
+
 public class Comment {
     public static void main(String[] args) {
         System.out.println("hello java 1"); // hello java 1을 출력합니다.
